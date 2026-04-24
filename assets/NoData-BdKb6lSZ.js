@@ -1,0 +1,1 @@
+import{v as a,f as s,k as n,u as e,a6 as o,o as c,a1 as r}from"./index-mYP2TR4O.js";const l=["textContent"],m={__name:"NoData",setup(_){const{t}=a({useScope:"global"});return(u,i)=>e(o).loading?n("",!0):(c(),s("div",{key:0,class:"flex items-center justify-center h-full",textContent:r(e(t)("no_data"))},null,8,l))}};export{m as _};
