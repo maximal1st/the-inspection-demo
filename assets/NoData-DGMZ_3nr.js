@@ -1,0 +1,1 @@
+import{bv as a,bt as t,ak as s,aH as n,a8 as o,bp as c,a7 as r}from"./index-Dk12liNU.js";const l=["textContent"],m={__name:"NoData",setup(_){const{t:e}=a({useScope:"global"});return(u,i)=>t(s).loading?r("",!0):(n(),o("div",{key:0,class:"flex items-center justify-center h-full",textContent:c(t(e)("no_data"))},null,8,l))}};export{m as _};
